@@ -1,0 +1,7 @@
+.link {
+    transition: color 0.3s ease-in-out;
+
+    &:hover {
+        color: crimson;
+    }
+}
